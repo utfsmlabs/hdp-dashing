@@ -5,19 +5,31 @@ buzzwords: ! 'data: {"items":[{"label":"Pivoting","value":10},{"label":"Turn-key
 
 
 '
-convergence: ! 'data: {"points":[{"x":992,"y":29},{"x":993,"y":37},{"x":994,"y":23},{"x":995,"y":1},{"x":996,"y":23},{"x":997,"y":25},{"x":998,"y":17},{"x":999,"y":1},{"x":1000,"y":43},{"x":1001,"y":8}],"id":"convergence","updatedAt":1375748808}
+convergence: ! 'data: {"points":[{"x":20,"y":16},{"x":21,"y":25},{"x":22,"y":48},{"x":23,"y":3},{"x":24,"y":37},{"x":25,"y":42},{"x":26,"y":14},{"x":27,"y":49},{"x":28,"y":0},{"x":29,"y":46}],"id":"convergence","updatedAt":1376491515}
 
 
 '
-valuation: ! 'data: {"current":93,"last":93,"id":"valuation","updatedAt":1375748808}
+valuation: ! 'data: {"current":46,"last":27,"id":"valuation","updatedAt":1376491515}
 
 
 '
-karma: ! 'data: {"current":195706,"last":112806,"id":"karma","updatedAt":1375748808}
+karma: ! 'data: {"current":131016,"last":97171,"id":"karma","updatedAt":1376491515}
 
 
 '
-synergy: ! 'data: {"value":52,"id":"synergy","updatedAt":1375748808}
+synergy: ! 'data: {"value":66,"id":"synergy","updatedAt":1376491515}
+
+
+'
+primos: ! 'data: {"items":[{"label":"Benjamín"},{"label":"Jorge"}],"id":"primos","updatedAt":1376526139}
+
+
+'
+twitter_mentions: ! 'data: {"comments":[{"name":"Big Testa","body":"@primosstgousm
+  prueba :)","avatar":"https://si0.twimg.com/profile_images/2282124434/6pnfalnl48zosdn724rd_normal.jpeg"},{"name":"Big
+  Testa","body":"@PrimosStgoUSM hola!","avatar":"https://si0.twimg.com/profile_images/2282124434/6pnfalnl48zosdn724rd_normal.jpeg"},{"name":"Denisse
+  Arenas","body":"@PrimosStgoUSM Hola!","avatar":"https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"},{"name":"Denisse
+  Arenas","body":"@primosstgousm hola! :)","avatar":"https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"}],"id":"twitter_mentions","updatedAt":1376526144}
 
 
 '
