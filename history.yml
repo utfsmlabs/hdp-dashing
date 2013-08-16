@@ -21,7 +21,7 @@ synergy: ! 'data: {"value":66,"id":"synergy","updatedAt":1376491515}
 
 
 '
-primos: ! 'data: {"items":[{"label":"Benjamín"},{"label":"Jorge"}],"id":"primos","updatedAt":1376526139}
+primos: ! 'data: {"items":[{"label":"Iván"},{"label":"Diego"}],"id":"primos","updatedAt":1376685640}
 
 
 '
@@ -29,7 +29,58 @@ twitter_mentions: ! 'data: {"comments":[{"name":"Big Testa","body":"@primosstgou
   prueba :)","avatar":"https://si0.twimg.com/profile_images/2282124434/6pnfalnl48zosdn724rd_normal.jpeg"},{"name":"Big
   Testa","body":"@PrimosStgoUSM hola!","avatar":"https://si0.twimg.com/profile_images/2282124434/6pnfalnl48zosdn724rd_normal.jpeg"},{"name":"Denisse
   Arenas","body":"@PrimosStgoUSM Hola!","avatar":"https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"},{"name":"Denisse
-  Arenas","body":"@primosstgousm hola! :)","avatar":"https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"}],"id":"twitter_mentions","updatedAt":1376526144}
+  Arenas","body":"@primosstgousm hola! :)","avatar":"https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"}],"id":"twitter_mentions","updatedAt":1376685160}
+
+
+'
+code: ! 'data: {"tasks":[{"name":"Revisar cuenta de inf ","body":"201160504-7\r\nSergio
+  Yañez\r\n\r\nNo tiene Home, al momento de loguearse le tire errores y no puede trabajar\r\nEstudiante
+  que se cambio a informatica desde otra correra"},{"name":"Samba Server Cuentas","body":"Instalar
+  Samba en un server, para que los usuarios puedan acceder desde windows a su nfs
+  :D\r\n\r\n"},{"name":"Deshabilitar actualizacion de hdf5","body":"esop :D"},{"name":"Revisar
+  impresoras en TODOS los pcs","body":"Por algun motivo no todas las impresoras de
+  los pcs están funcionando.\r\n\r\nRevisar que cada pc esté enviando la impresion
+  a cups, no es necesario imprimir asi que no gasten hojas :B"},{"name":"Mantener
+  actualizado Macs","body":"1) Actualizarlos\r\n2) Ponerles mouse y teclado USB\r\n3)
+  Revisar que se logeen con LDAP\r\n4) Investigar una manera de que puedan acceder
+  a sus homes (si autofs no funciona a la buena onda)\r\n\r\n\r\nSlds"},{"name":"Reinstalar
+  Windows 7 en las máquinas virtuales","body":"Hay que reinstalar Windows 7 en una
+  máquina virtual del lpa y copiarlas a lso demas pc''s:\r\n1.- Reinstalar windows
+  7 en una máquina virtual.\r\n2.- Revisar que no se caigan los programas (probar
+  windows movie maker y tratar de hacer algun video, o abrir configuraciones del panel
+  de control).\r\n3.- Revisar la resolucion de la pantalla con widows corriendo\r\n3.1.-
+  Si se ve bien:\r\n-Salir de la máquina y clonar a los demas pc''s del lpa\r\n3.2-Si
+  se ve mal:\r\n3.2.1.- Activar escritorio remoto en windows\r\n3.2.2.- Reiniciar
+  en \"background\" (sin video)\r\n3.2.3.- Conectar por VNL\r\n3.2.4.- Si se ve bien:\r\n-
+  Documentar en code, salir de la muina virtual y clonarlas en el lpa\r\n3.2.5.-Si
+  se ve mal:\r\n3.2.5.1 ¿Que tan mal se ve en comparación con QEMU ? ; Documentarlo
+  en code.\r\n\r\nLa tarea es tediosa, no es compleja.\r\nSaludos !!\r\n"},{"name":"Investigacion:
+  Software de monitoreo","body":"Investigar software de monitoreo que podamos usar
+  para trabajar con las cámaras cisco."},{"name":"Avanzar con Dashboard","body":"Dashboard
+  tiene varios atados, entre algunos problemas de diseño y demases.\r\n\r\nlamentablemente
+  su creador no tiene tiempo para andar modificandolo este semestre, asi que el que
+  se quiera adentrar y aprender el desarrollo de aplicaciones en Ruby on Rails, sientase
+  libre de meterle mano.\r\n\r\nSólo tienen que crearse una cuenta en GitHub y pedir
+  acceso al repo a Daniel, Tux o Yo (Iván).\r\n\r\nSaludos"},{"name":"Scripts de Apu
+  a Fabric","body":"Todo el LPA ya está con la llave de Apu,\r\n\r\nQueda que se terminen
+  y prueben los scripts nomás :D\r\n\r\n\r\nSLds"},{"name":"Revivir a Icinga","body":"Queda
+  a desición de José si dejarlo que corra en APU o crearle una máquina virtual.\r\n\r\nOjalá
+  que la tengas pronto, ya que se necesita su feed JSON para el Dashboard\r\n\r\n:D"},{"name":"Estandarización
+  Notebooks","body":"Los 5 Notebooks deben tener instalado\r\n\r\n- En Windows: PrintCD
+  para imprimir cds con la impresora epson\r\n- Un mismo Linux (creo que habían quedado
+  con Ubuntu, do so)\r\n"}],"id":"code","updatedAt":1376669555}
+
+
+'
+code_list: ! 'data: {"tasks":[{"name":"Investigacion: Software de monitoreo","description":"Investigar
+  software de monitoreo que podamos usar para trabajar con las cámaras cisco.","assigned_to":"Asignado
+  a: Andres Nicolas Valdés Aguila","done_ratio":"Completado en un 0%"},{"name":"Avanzar
+  con Dashboard","description":"Dashboard tiene varios atados, entre algunos problemas
+  de diseño y demases.\r\n\r\nlamentablemente su creador no tiene tiempo para andar
+  modificandolo este semestre, asi que el que se quiera adentrar y aprender el desarrollo
+  de aplicaciones en Ruby on Rails, sientase libre de meterle mano.\r\n\r\nSólo tienen
+  que crearse una cuenta en GitHub y pedir acceso al repo a Daniel, Tux o Yo (Iván).\r\n\r\nSaludos","assigned_to":"Asignado
+  a: Ivan Valdes Riesco","done_ratio":"Completado en un 0%"}],"id":"code_list","updatedAt":1376685160}
 
 
 '

@@ -1,13 +1,13 @@
 require 'twitter'
-
+settings = YAML.load_file("config.yaml")
 
 #### Get your twitter keys & secrets:
 #### https://dev.twitter.com/docs/auth/tokens-devtwittercom
 Twitter.configure do |config|
-  config.consumer_key = "5IS9EMeLTwyywHZu64S85g"
-  config.consumer_secret = "DUMdUMytkyqJJz3gWo5Y4PMO7Qz7LkqK9wKUvWnxc"
-  config.oauth_token = "1671750709-E49EZBjzPwWBl5pjpfpI3rDpCPjKPZKercW4WUl"
-  config.oauth_token_secret = "L6XbZrdLbM0TgQIZaKVR2sWUkwCvBdVktx6c6POEkIY"
+  config.consumer_key = settings["config"]["consumer_key"]
+  config.consumer_secret = settings["config"]["consumer_secret"]
+  config.oauth_token = settings["config"]["oauth_token"]
+  config.oauth_token_secret = settings["config"]["oauth_token_secret"]
 end
 
 SCHEDULER.every '10m', :first_in => 0 do |job|
