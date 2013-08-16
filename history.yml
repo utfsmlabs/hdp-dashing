@@ -21,15 +21,41 @@ synergy: ! 'data: {"value":66,"id":"synergy","updatedAt":1376491515}
 
 
 '
-primos: ! 'data: {"items":[{"label":"Iván"},{"label":"Diego"}],"id":"primos","updatedAt":1376685640}
+primos: ! 'data: {"items":[{"label":"Iván"}],"id":"primos","updatedAt":1376689758}
 
 
 '
-twitter_mentions: ! 'data: {"comments":[{"name":"Big Testa","body":"@primosstgousm
-  prueba :)","avatar":"https://si0.twimg.com/profile_images/2282124434/6pnfalnl48zosdn724rd_normal.jpeg"},{"name":"Big
-  Testa","body":"@PrimosStgoUSM hola!","avatar":"https://si0.twimg.com/profile_images/2282124434/6pnfalnl48zosdn724rd_normal.jpeg"},{"name":"Denisse
-  Arenas","body":"@PrimosStgoUSM Hola!","avatar":"https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"},{"name":"Denisse
-  Arenas","body":"@primosstgousm hola! :)","avatar":"https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"}],"id":"twitter_mentions","updatedAt":1376685160}
+twitter_mentions: ! 'data: {"comments":[{"name":"Big Testa","body":"@utfsm_labs Saludos!","avatar":"https://si0.twimg.com/profile_images/2282124434/6pnfalnl48zosdn724rd_normal.jpeg"},{"name":"Revista
+  Ecoamérica","body":"Alumnos de U.Santa María instalan paneles fotovoltaicos en Caleta
+  Portales http://t.co/HqXVYCZUXd @utfsm_labs","avatar":"https://si0.twimg.com/profile_images/3573938371/97566f2525c89627f97277e734b0ea61_normal.jpeg"},{"name":"Yessica
+  Cartajena","body":"@utfsm_labs Sansanos  Un voto por proyecto social Kiosko Virtual
+  Comunitario http://t.co/Q7ODMdFW09  RT soy ex alumna!","avatar":"https://si0.twimg.com/profile_images/2505939214/b7sxkqt84mh4wo5dou5h_normal.jpeg"},{"name":"Boris
+  S.R.","body":"@MetArmada_Valp @S3BAV @ClimaValpso @meteouv @utfsm_labs anotado entonces...\n=)","avatar":"https://si0.twimg.com/profile_images/378800000091775712/26729aa159b73f736b8cd21e35883d08_normal.jpeg"},{"name":"Centro
+  Meteorológico","body":"@Bsalinrojas @S3BAV @ClimaValpso @meteouv lamentablemente
+  @utfsm_labs solo actualiza la hora y no los datos (14,6°C; 82%; 1,7 m/s SE 0,0 mm)","avatar":"https://si0.twimg.com/profile_images/2651146965/1be986108594f7602763df5aeaca318d_normal.jpeg"},{"name":"Clima
+  Valparaíso","body":"@MetArmada_Valp  @utfsm_labs @meteouv @PortValparaiso Pero las
+  más utilizadas y más conocidas, es Punta de Ángeles, PUCV y Rodelillo","avatar":"https://si0.twimg.com/profile_images/3532277688/7101e303f6b064d07e0470fa47e8a176_normal.png"},{"name":"Centro
+  Meteorológico","body":"@ClimaValpso @Chileno_un7 hay más estaciones meteorológicas
+  en Valparaíso @utfsm_labs @MeteoUV @PortValparaiso SHOA Capitanía de Puerto etc.","avatar":"https://si0.twimg.com/profile_images/2651146965/1be986108594f7602763df5aeaca318d_normal.jpeg"},{"name":"Dave
+  El Minero","body":"Necesito químicos analistas urgente para división El Salvador,
+  favor RT (contacto por DM) cc @DonDateador @elrajachucha @utfsm_labs gracias!","avatar":"https://si0.twimg.com/profile_images/378800000182362920/e2e3f34a7c7706706091f4ef3a9540ff_normal.jpeg"},{"name":"Daniela.
+  ","body":"Frío y control de laboratorio. (@ Laboratorios - @utfsm_labs) http://t.co/VxB6jjtRnZ","avatar":"https://si0.twimg.com/profile_images/378800000199781144/07da564880f3ccbc60de2df2fe1c6473_normal.jpeg"},{"name":"Francisca
+  Vergara","body":"I''m at Laboratorios - @utfsm_labs (Macul, Región Metropolitana)
+  http://t.co/hz3yj0ZrsS","avatar":"https://si0.twimg.com/profile_images/1569946492/219442_1987808373316_1186520852_2416781_2275259_o_normal.jpg"},{"name":"Daniela.
+  ","body":"Espero que hoy SÍ haya. (@ Laboratorios - @utfsm_labs) http://t.co/XqJyWSM0wD","avatar":"https://si0.twimg.com/profile_images/378800000199781144/07da564880f3ccbc60de2df2fe1c6473_normal.jpeg"},{"name":"Daniela.
+  ","body":"Muchos check-in porque es el día Foursquare. (@ Laboratorios - @utfsm_labs)
+  http://t.co/lSQ6P7qv4N","avatar":"https://si0.twimg.com/profile_images/378800000199781144/07da564880f3ccbc60de2df2fe1c6473_normal.jpeg"},{"name":"Centro
+  Sangre Valpo","body":"DESDE HOY 26 AL JUEVES 29, DE 11 A 17 HRS. COLECTA VOLUNTARIA
+  DE SANGRE EN #UTFSM LOS ESPERAMOS!!! @utfsm_labs","avatar":"https://si0.twimg.com/profile_images/1356749968/Logo_Davos_normal.png"},{"name":"Centro
+  Sangre Valpo","body":"DESDE LUNES 20 AL JUEVES 23 COLECTA VOLUNTARIA DE SANGRE EN
+  USM VALPO. 11- 16. TE ESPERAMOS. @DI_UTFSM @utfsm_labs","avatar":"https://si0.twimg.com/profile_images/1356749968/Logo_Davos_normal.png"},{"name":"Jonnathan
+  Saldivia","body":"en el UUUUUltimo @utfsm_labs de bioquimica del semestre.\nVamos
+  csm!","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
+  Saldivia","body":"el la colacha  @utfsm_labs","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
+  Saldivia","body":"Buenamente en @utfsm_labs   bioquimica  al hueso..","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
+  Saldivia","body":"@utfsm_labs  en bioquímica, pero la the real","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
+  Saldivia","body":"Nuevamente a  @utfsm_labs  haber que  nos entretiene màs...","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
+  Saldivia","body":"Tecnologías alimentarias @utfsm_labs \nNuevamente..\n#ATRASADO!","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"}],"id":"twitter_mentions","updatedAt":1376689699}
 
 
 '
@@ -80,7 +106,7 @@ code_list: ! 'data: {"tasks":[{"name":"Investigacion: Software de monitoreo","de
   modificandolo este semestre, asi que el que se quiera adentrar y aprender el desarrollo
   de aplicaciones en Ruby on Rails, sientase libre de meterle mano.\r\n\r\nSólo tienen
   que crearse una cuenta en GitHub y pedir acceso al repo a Daniel, Tux o Yo (Iván).\r\n\r\nSaludos","assigned_to":"Asignado
-  a: Ivan Valdes Riesco","done_ratio":"Completado en un 0%"}],"id":"code_list","updatedAt":1376685160}
+  a: Ivan Valdes Riesco","done_ratio":"Completado en un 0%"}],"id":"code_list","updatedAt":1376688491}
 
 
 '
