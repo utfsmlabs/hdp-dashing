@@ -1,3 +1,3 @@
 $().ready(function() {
-	$('.show-koshiro').jqm();
+	$('#show-koshiro').jqm();
 });
