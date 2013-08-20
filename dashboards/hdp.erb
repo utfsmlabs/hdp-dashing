@@ -8,6 +8,11 @@ $(function() {
 
 <% content_for :title do %>1080p dashboard<% end %>
 
+<div calss="jqmWindow" id="dialog">
+  <a href="#" class="jqmClose">X</a>
+  <img height="1280" src="http://primo:primo@koshiro/img/video.mjpeg" />
+</div>
+
 <div class="gridster">
   <ul>
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
@@ -23,7 +28,7 @@ $(function() {
     </li>
 
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div class="widget" style="background-color:#4b4b4b;"><img height="280" src="http://primo:primo@koshiro/img/video.mjpeg" /></div>
+      <div class="widget show-koshiro" style="background-color:#4b4b4b;"><img height="280" src="http://primo:primo@koshiro/img/video.mjpeg" /></div>
     </li>
 
     <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
