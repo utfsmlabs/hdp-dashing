@@ -1,9 +1,9 @@
 <h1 class="title" data-bind="title"></h1>
 <div class="task-container">
   <h3><span data-bind='current_task.name' class="name"></span></h3>
-  <p class="task" data-bind='current_task.description'></p>
-  <p class="task" data-bind='current_task.assigned_to'></p>
-  <p class="task" data-bind='current_task.done_ratio'></p>
+  <p class="task-description" data-bind='current_task.description'></p>
+  <p class="task-assigned_to" data-bind='current_task.assigned_to'></p>
+  <p class="task-done_ratio" data-bind='current_task.done_ratio'></p>
 </div>
 
 <p class="more-info" data-bind="moreinfo | raw"></p>

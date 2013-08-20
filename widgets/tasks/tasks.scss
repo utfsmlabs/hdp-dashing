@@ -26,6 +26,13 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
     display: none;
   }
 
+  .task-assigned_to, .task-done_ratio{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 5px;
+    font-weight:bold;
+  }
+
   .more-info {
     color: $moreinfo-color;
   }
