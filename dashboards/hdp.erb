@@ -1,13 +1,18 @@
 <script type='text/javascript'>
 $(function() {
-  Dashing.widget_base_dimensions = [480, 360]
+  Dashing.widget_base_dimensions = [470, 350]
   Dashing.numColumns = 4
 });
 </script>
 
 
 <% content_for :title do %>1080p dashboard<% end %>
-
+<!--
+<div class="jqmWindow" id="dialog">
+  <a href="#" class="jqmClose">X</a>
+  <img height="1280" src="http://primo:primo@koshiro/img/video.mjpeg" />
+</div>
+-->
 <div class="gridster">
   <ul>
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
@@ -22,20 +27,26 @@ $(function() {
       <div data-view="List" data-id="labs" data-text="PCs" ></div>
     </li>
 
-    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-view="Text" data-text="Cámara 1" ></div>
+    <li id="show-koshiro" data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div style="background-color:#4b4b4b;"><img style="width:470px;height:350px" src="http://primo:primo@koshiro/img/video.mjpeg" /></div>
     </li>
 
     <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
-      <div data-id="code_list" data-view="Tasks" style="background-color:#ff9618;"></div>
+      <div data-id="code_list" data-view="Tasks" style="background-color:#9c4274;"></div>
     </li>
 
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-view="Text" data-text="Cámara 2" ></div>
+      <div class="widget" style="background-color:#12b0c5;">Cámara 2</div>
     </li>
 
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-view="Text" data-text="Red" ></div>
+      <!--<div data-view="Text" data-text="Red" ></div>-->
+      <div class="widget" style="background-color:#9c4274;" >Red DI
+      <!--
+        <iframe src="http://www.nyan.cat/gb.php" style="border:0px #FFFFFF none;" name="nyan" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="300px" width="468px"></iframe>
+      -->
+        
+      </div>
     </li>
 
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
@@ -43,12 +54,12 @@ $(function() {
     </li>
 
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-id="twitter_mentions" data-view="Comments" style="background-color:#ff9618;" data-moreinfo="Mensiones Cuenta Primos (@utfsm_labs)"></div>
+      <div data-id="twitter_mentions" data-view="Comments" style="background-color:#9AE4E8;" data-moreinfo="Menciones Cuenta Primos (@utfsm_labs)"></div>
       <i class="icon-twitter icon-background"></i>
     </li>
 
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-view="Text" data-text="Cámara 3" ></div>
+      <div><iframe width="470" height="350" src="//www.youtube.com/embed/Sagg08DrO5U?autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe></div>
     </li>
 
   </ul>

@@ -1,7 +1,7 @@
 settings = YAML.load_file("config.yaml")
 hash_tareas = Hash.new
 
-SCHEDULER.every '10m', :first_in => 0 do |job|
+SCHEDULER.every '5m', :first_in => 0 do |job|
 	base_url = "http://code.inf.santiago.usm.cl/projects/primos/issues"
   issue_url = "http://code.inf.santiago.usm.cl/issues"
   code_api = settings["config"]["code_api"]
