@@ -21,7 +21,7 @@ synergy: ! 'data: {"value":66,"id":"synergy","updatedAt":1376491515}
 
 
 '
-primos: ! 'data: {"items":[{"label":"Fuera del horario de turnos"},{"label":"Nacho"},{"label":"Iván"}],"id":"primos","updatedAt":1377108719}
+primos: ! 'data: {"items":[{"label":"Pollo"},{"label":"Denisse"}],"id":"primos","updatedAt":1377116792}
 
 
 '
@@ -54,8 +54,7 @@ twitter_mentions: ! 'data: {"comments":[{"name":"Big Testa","body":"@utfsm_labs 
   Saldivia","body":"el la colacha  @utfsm_labs","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
   Saldivia","body":"Buenamente en @utfsm_labs   bioquimica  al hueso..","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
   Saldivia","body":"@utfsm_labs  en bioquímica, pero la the real","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
-  Saldivia","body":"Nuevamente a  @utfsm_labs  haber que  nos entretiene màs...","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
-  Saldivia","body":"Tecnologías alimentarias @utfsm_labs \nNuevamente..\n#ATRASADO!","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"}],"id":"twitter_mentions","updatedAt":1377108660}
+  Saldivia","body":"Nuevamente a  @utfsm_labs  haber que  nos entretiene màs...","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"}],"id":"twitter_mentions","updatedAt":1377116733}
 
 
 '
@@ -106,15 +105,19 @@ code_list: ! 'data: {"tasks":[{"name":"Investigacion: Software de monitoreo","de
   modificandolo este semestre, asi que el que se quiera adentrar y aprender el desarrollo
   de aplicaciones en Ruby on Rails, sientase libre de meterle mano.\r\n\r\nSólo tienen
   que crearse una cuenta en GitHub y pedir acceso al repo a Daniel, Tux o Yo (Iván).\r\n\r\nSaludos","assigned_to":"Asignado
-  a: Ivan Valdes Riesco","done_ratio":"Completado en un 0%"}],"id":"code_list","updatedAt":1377108659}
+  a: Ivan Valdes Riesco","done_ratio":"Completado en un 0%"}],"id":"code_list","updatedAt":1377116732}
 
 
 '
-widget_id: ! 'data: {"id":"widget_id","updatedAt":1377105472}
+widget_id: ! 'data: {"id":"widget_id","updatedAt":1377116792}
 
 
 '
-labs: ! 'data: {"items":[{"label":"lds-pc17"},{"label":"lds-pc19"},{"label":"lds-pc20"},{"label":"lds-pc43"},{"label":"lds-pc46"},{"label":"lpa-pc10"},{"label":"lpa-pc11"},{"label":"lpa-pc12"},{"label":"lpa-pc13"},{"label":"lpa-pc14"},{"label":"lpa-pc15"},{"label":"lpa-pc16"},{"label":"lpa-pc21"},{"label":"lpa-pc22"},{"label":"lpa-pc27"},{"label":"lpa-pc30"},{"label":"lpa-pc31"},{"label":"lpa-pc40"},{"label":"lpa-pc41"},{"label":"lpa-pc42"},{"label":"lpa-pc43"},{"label":"lpa-pc46"}],"id":"labs","updatedAt":1377106315}
+labs: ! 'data: {"labs":[{"name":"lds-pc20"},{"name":"lds-pc46"},{"name":"lpa-pc15"},{"name":"lpa-pc43"},{"name":"lpa-pc46"}],"id":"labs","updatedAt":1377116822}
+
+
+'
+labs_overall: ! 'data: {"value":67,"id":"labs_overall","updatedAt":1377116822}
 
 
 '
