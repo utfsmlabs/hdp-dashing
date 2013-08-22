@@ -21,7 +21,7 @@ synergy: ! 'data: {"value":66,"id":"synergy","updatedAt":1376491515}
 
 
 '
-primos: ! 'data: {"items":[{"label":"Hay mas primos de turno que pokemones!"}],"id":"primos","updatedAt":1377197739}
+primos: ! 'data: {"items":[{"label":"Diego"},{"label":"Jorge"}],"id":"primos","updatedAt":1377209460}
 
 
 '
@@ -54,7 +54,7 @@ twitter_mentions: ! 'data: {"comments":[{"name":"Big Testa","body":"@utfsm_labs 
   Saldivia","body":"el la colacha  @utfsm_labs","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
   Saldivia","body":"Buenamente en @utfsm_labs   bioquimica  al hueso..","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
   Saldivia","body":"@utfsm_labs  en bioquímica, pero la the real","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
-  Saldivia","body":"Nuevamente a  @utfsm_labs  haber que  nos entretiene màs...","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"}],"id":"twitter_mentions","updatedAt":1377197739}
+  Saldivia","body":"Nuevamente a  @utfsm_labs  haber que  nos entretiene màs...","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"}],"id":"twitter_mentions","updatedAt":1377209461}
 
 
 '
@@ -97,11 +97,14 @@ code: ! 'data: {"tasks":[{"name":"Revisar cuenta de inf ","body":"201160504-7\r\
 
 
 '
-code_list: ! 'data: {"tasks":[{"name":"Scratch al LPA","description":"Para ser todo
-  un dijay","assigned_to":"Asignado a: Todos","done_ratio":"Completado en un 0%"},{"name":"Maquina
-  de Win7 única","description":"para clonarla al infinito y mas allá.","assigned_to":"Asignado
-  a: Todos","done_ratio":"Completado en un 0%"},{"name":"Unificacion de Pcs a FDS3","description":"Hay
-  pcs que se conectan a fds4 aun, cambiarlos a fds3","assigned_to":"Asignado a: Todos","done_ratio":"Completado
+code_list: ! 'data: {"tasks":[{"name":"Instalar robot c","description":"Hay que instalar
+  robot C en dos notebooks para el tayer de la profe Jocelyn. Tenerlos listos antes
+  del jueves 29.","assigned_to":"Asignado a: Todos","done_ratio":"Completado en un
+  0%"},{"name":"Scratch al LPA","description":"Para ser todo un dijay","assigned_to":"Asignado
+  a: Todos","done_ratio":"Completado en un 0%"},{"name":"Maquina de Win7 única","description":"para
+  clonarla al infinito y mas allá.","assigned_to":"Asignado a: Todos","done_ratio":"Completado
+  en un 0%"},{"name":"Unificacion de Pcs a FDS3","description":"Hay pcs que se conectan
+  a fds4 aun, cambiarlos a fds3","assigned_to":"Asignado a: Todos","done_ratio":"Completado
   en un 0%"},{"name":"Revisar LDS pc 25","description":"Dicen en rusia que anda lento","assigned_to":"Asignado
   a: Todos","done_ratio":"Completado en un 0%"},{"name":"QEMU LPA","description":"Arreglar
   pcs que piden permisos para ejecutar las maquinas virtuales :D","assigned_to":"Asignado
@@ -114,23 +117,23 @@ code_list: ! 'data: {"tasks":[{"name":"Scratch al LPA","description":"Para ser t
   con Dashboard (2)","description":"Falta agregar bloques en la programación, en caso
   de errores de carga (begin, rescue, ensure) ... sobretodo en la carga de icinga...\r\ntambién
   hay que agregar un cron en bender para que ejecute shjobs/speedtest.sh cada 5 minutos","assigned_to":"Asignado
-  a: Todos","done_ratio":"Completado en un 40%"}],"id":"code_list","updatedAt":1377197739}
+  a: Todos","done_ratio":"Completado en un 40%"}],"id":"code_list","updatedAt":1377209461}
 
 
 '
-widget_id: ! 'data: {"id":"widget_id","updatedAt":1377197738}
+widget_id: ! 'data: {"id":"widget_id","updatedAt":1377209460}
 
 
 '
-labs: ! 'data: {"labs":[{"name":"lds-pc12"},{"name":"lds-pc13"},{"name":"lds-pc16"},{"name":"lds-pc26"},{"name":"lds-pc44"},{"name":"lds-pc46"},{"name":"lpa-pc15"},{"name":"lpa-pc25"},{"name":"lpa-pc46"}],"id":"labs","updatedAt":1377197738}
+labs: ! 'data: {"labs":[{"name":"lds-pc12"},{"name":"lds-pc13"},{"name":"lds-pc16"},{"name":"lds-pc26"},{"name":"lds-pc44"},{"name":"lds-pc46"}],"id":"labs","updatedAt":1377209475}
 
 
 '
-labs_overall: ! 'data: {"value":63,"id":"labs_overall","updatedAt":1377197738}
+labs_overall: ! 'data: {"value":66,"id":"labs_overall","updatedAt":1377209480}
 
 
 '
-red: ! 'data: {"points":[{"x":51,"y":9.3},{"x":52,"y":9.3},{"x":53,"y":9.3},{"x":54,"y":9.3},{"x":55,"y":9.3},{"x":56,"y":9.3},{"x":57,"y":9.3},{"x":58,"y":9.3},{"x":59,"y":9.3},{"x":60,"y":9.3}],"id":"red","updatedAt":1377197021}
+red: ! 'data: {"points":[{"x":39,"y":0.0},{"x":40,"y":0.0},{"x":41,"y":0.0},{"x":42,"y":0.0},{"x":43,"y":0.0},{"x":44,"y":0.0},{"x":45,"y":0.0},{"x":46,"y":0.0},{"x":47,"y":0.0},{"x":48,"y":0.0}],"id":"red","updatedAt":1377209147}
 
 
 '

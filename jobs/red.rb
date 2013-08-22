@@ -5,13 +5,12 @@ points = []
 end
 last_x = points.last[:x]
 
-SCHEDULER.every '5m' do
+SCHEDULER.every '1m' do
   points.shift
   last_x += 1
   f = File.open("/home/primo/www/hdp-dashing/tmpfiles/speed")
   vel = f.gets.to_f
   f.close
   points << { x: last_x, y: vel }
-  puts points
   send_event('red', points: points)
 end
