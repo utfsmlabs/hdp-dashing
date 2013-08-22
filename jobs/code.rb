@@ -20,7 +20,7 @@ SCHEDULER.every '5m', :first_in => 0 do |job|
       if tarea['assigned_to']
         asignado_a = tarea['assigned_to']['name']
       else
-        asignado_a = tarea['author']['name']
+        asignado_a = "Todos" 
       end
       { name: tarea['subject'], description: tarea['description'], assigned_to: "Asignado a: #{asignado_a}", done_ratio: "Completado en un #{tarea['done_ratio']}%" }
     end

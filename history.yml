@@ -5,7 +5,7 @@ buzzwords: ! 'data: {"items":[{"label":"Pivoting","value":10},{"label":"Turn-key
 
 
 '
-convergence: ! 'data: {"points":[{"x":20,"y":16},{"x":21,"y":25},{"x":22,"y":48},{"x":23,"y":3},{"x":24,"y":37},{"x":25,"y":42},{"x":26,"y":14},{"x":27,"y":49},{"x":28,"y":0},{"x":29,"y":46}],"id":"convergence","updatedAt":1376491515}
+convergence: ! 'data: {"points":[{"x":4,"y":4},{"x":5,"y":0},{"x":6,"y":6},{"x":7,"y":8},{"x":8,"y":8},{"x":9,"y":9},{"x":10,"y":1},{"x":11,"y":11.25},{"x":12,"y":11.25},{"x":13,"y":11.25}],"id":"convergence","updatedAt":1377180094}
 
 
 '
@@ -21,7 +21,7 @@ synergy: ! 'data: {"value":66,"id":"synergy","updatedAt":1376491515}
 
 
 '
-primos: ! 'data: {"items":[{"label":"Pollo"},{"label":"Denisse"}],"id":"primos","updatedAt":1377116792}
+primos: ! 'data: {"items":[{"label":"Hay mas primos de turno que pokemones!"}],"id":"primos","updatedAt":1377197739}
 
 
 '
@@ -54,7 +54,7 @@ twitter_mentions: ! 'data: {"comments":[{"name":"Big Testa","body":"@utfsm_labs 
   Saldivia","body":"el la colacha  @utfsm_labs","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
   Saldivia","body":"Buenamente en @utfsm_labs   bioquimica  al hueso..","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
   Saldivia","body":"@utfsm_labs  en bioquímica, pero la the real","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"},{"name":"Jonnathan
-  Saldivia","body":"Nuevamente a  @utfsm_labs  haber que  nos entretiene màs...","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"}],"id":"twitter_mentions","updatedAt":1377116733}
+  Saldivia","body":"Nuevamente a  @utfsm_labs  haber que  nos entretiene màs...","avatar":"https://si0.twimg.com/profile_images/1786533052/399946_2919112650691_1047013673_2967816_184306647_n_normal.jpg"}],"id":"twitter_mentions","updatedAt":1377197739}
 
 
 '
@@ -97,27 +97,40 @@ code: ! 'data: {"tasks":[{"name":"Revisar cuenta de inf ","body":"201160504-7\r\
 
 
 '
-code_list: ! 'data: {"tasks":[{"name":"Investigacion: Software de monitoreo","description":"Investigar
+code_list: ! 'data: {"tasks":[{"name":"Scratch al LPA","description":"Para ser todo
+  un dijay","assigned_to":"Asignado a: Todos","done_ratio":"Completado en un 0%"},{"name":"Maquina
+  de Win7 única","description":"para clonarla al infinito y mas allá.","assigned_to":"Asignado
+  a: Todos","done_ratio":"Completado en un 0%"},{"name":"Unificacion de Pcs a FDS3","description":"Hay
+  pcs que se conectan a fds4 aun, cambiarlos a fds3","assigned_to":"Asignado a: Todos","done_ratio":"Completado
+  en un 0%"},{"name":"Revisar LDS pc 25","description":"Dicen en rusia que anda lento","assigned_to":"Asignado
+  a: Todos","done_ratio":"Completado en un 0%"},{"name":"QEMU LPA","description":"Arreglar
+  pcs que piden permisos para ejecutar las maquinas virtuales :D","assigned_to":"Asignado
+  a: Todos","done_ratio":"Completado en un 0%"},{"name":"Fix Icinga","description":"Icinga
+  muestra Status OK cuando están los pcs apagados xD (de hecho, muestran el servicio
+  ssh como down)\r\n:O","assigned_to":"Asignado a: Daniel Orlando Flores Vergara","done_ratio":"Completado
+  en un 0%"},{"name":"Investigacion: Software de monitoreo","description":"Investigar
   software de monitoreo que podamos usar para trabajar con las cámaras cisco.","assigned_to":"Asignado
   a: Andres Nicolas Valdés Aguila","done_ratio":"Completado en un 0%"},{"name":"Avanzar
-  con Dashboard","description":"Dashboard tiene varios atados, entre algunos problemas
-  de diseño y demases.\r\n\r\nlamentablemente su creador no tiene tiempo para andar
-  modificandolo este semestre, asi que el que se quiera adentrar y aprender el desarrollo
-  de aplicaciones en Ruby on Rails, sientase libre de meterle mano.\r\n\r\nSólo tienen
-  que crearse una cuenta en GitHub y pedir acceso al repo a Daniel, Tux o Yo (Iván).\r\n\r\nSaludos","assigned_to":"Asignado
-  a: Ivan Valdes Riesco","done_ratio":"Completado en un 0%"}],"id":"code_list","updatedAt":1377116732}
+  con Dashboard (2)","description":"Falta agregar bloques en la programación, en caso
+  de errores de carga (begin, rescue, ensure) ... sobretodo en la carga de icinga...\r\ntambién
+  hay que agregar un cron en bender para que ejecute shjobs/speedtest.sh cada 5 minutos","assigned_to":"Asignado
+  a: Todos","done_ratio":"Completado en un 40%"}],"id":"code_list","updatedAt":1377197739}
 
 
 '
-widget_id: ! 'data: {"id":"widget_id","updatedAt":1377116792}
+widget_id: ! 'data: {"id":"widget_id","updatedAt":1377197738}
 
 
 '
-labs: ! 'data: {"labs":[{"name":"lds-pc20"},{"name":"lds-pc46"},{"name":"lpa-pc15"},{"name":"lpa-pc43"},{"name":"lpa-pc46"}],"id":"labs","updatedAt":1377116822}
+labs: ! 'data: {"labs":[{"name":"lds-pc12"},{"name":"lds-pc13"},{"name":"lds-pc16"},{"name":"lds-pc26"},{"name":"lds-pc44"},{"name":"lds-pc46"},{"name":"lpa-pc15"},{"name":"lpa-pc25"},{"name":"lpa-pc46"}],"id":"labs","updatedAt":1377197738}
 
 
 '
-labs_overall: ! 'data: {"value":67,"id":"labs_overall","updatedAt":1377116822}
+labs_overall: ! 'data: {"value":63,"id":"labs_overall","updatedAt":1377197738}
+
+
+'
+red: ! 'data: {"points":[{"x":51,"y":9.3},{"x":52,"y":9.3},{"x":53,"y":9.3},{"x":54,"y":9.3},{"x":55,"y":9.3},{"x":56,"y":9.3},{"x":57,"y":9.3},{"x":58,"y":9.3},{"x":59,"y":9.3},{"x":60,"y":9.3}],"id":"red","updatedAt":1377197021}
 
 
 '

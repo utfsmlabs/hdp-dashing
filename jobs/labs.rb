@@ -1,6 +1,5 @@
 require 'open-uri'
 settings = YAML.load_file("config.yaml")
-pcs = Hash.new
 
 SCHEDULER.every '5s', :first_in => 0 do |job|	
   url = "http://meru/icinga/cgi-bin/status.cgi?hostgroup=lds&hostgroup=lpa&style=overview&scroll=0&hoststatustypes=4&jsonoutput"
