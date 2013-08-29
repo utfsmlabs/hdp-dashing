@@ -1,21 +1,21 @@
-class Dashing.Labs extends Dashing.Widget
+class Dashing.Servers extends Dashing.Widget
 
   ready: ->
     @currentIndex = 0
-    @labElem = $(@node).find('.labs-container')
-    @nextLab()
+    @servElem = $(@node).find('.servers-container')
+    @nextServ()
     @startCarousel()
 
   onData: (data) ->
     @currentIndex = 0
 
   startCarousel: ->
-    setInterval(@nextLab, 2000)
+    setInterval(@nextServ, 5000)
 
-  nextLab: =>
-    labs = @get('labs')
-    if labs
-      @labElem.fadeOut =>
-        @currentIndex = (@currentIndex + 1) % labs.length
-        @set 'current_labs', labs[@currentIndex]
-        @labElem.fadeIn()
+  nextServ: =>
+    servers = @get('servers')
+    if servers
+      @servElem.fadeOut =>
+        @currentIndex = (@currentIndex + 1) % servers.length
+        @set 'current_server', servers[@currentIndex]
+        @servElem.fadeIn()

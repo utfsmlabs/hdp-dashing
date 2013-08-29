@@ -9,7 +9,7 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
 // ----------------------------------------------------------------------------
 // Widget-task styles
 // ----------------------------------------------------------------------------
-.widget-labs {
+.widget-servers {
 
   background-color: $background-color;
 
@@ -17,18 +17,23 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
     color: $title-color;
     margin-bottom: 15px;
   }
-
+  .error {
+    color: red;
+  }
   .name {
     padding-left: 5px;
   }
 
-  .labs-container {
-    display: none;
-  }
+//  .servers-container {
+//    display: none;
+//  }
 
   h2 {
     font-size: 40px;
   } 
+  h3 {
+    font-size: 30px;
+  }
 
   .more-info {
     color: $moreinfo-color;
