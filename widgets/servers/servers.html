@@ -1,0 +1,7 @@
+<h1 class="title" data-bind="title"></h1>
+<div class="servers-container">
+  <h2><span data-bind='current_server.name' class="name"></span> : <span data-bind='current_server.status'></span></h2>
+  <h3><span data-bind='current_server.services_ok'></span> de <span data-bind='current_server.total_services'></span> servicios corriendo</h3>
+</div>
+<p class="more-info" data-bind="moreinfo | raw"></p>
+<p class="updated-at" data-bind="updatedAtMessage"></p>
