@@ -1,5 +1,4 @@
-reunion = Hash.new
-reunion["reunion"] = {label: "Hay mas primos de turno que pokemones!" }
+require 'net/http'
 
 SCHEDULER.every '1m', :first_in => 0 do |job|
 	primos = Hash.new
@@ -9,9 +8,5 @@ SCHEDULER.every '1m', :first_in => 0 do |job|
 	primos_arreglo.each do |primo|
 		primos[primo] = { label: primo }
 	end
-	if primos.count < 5
-		send_event('primos', { items: primos.values })
-	else
-		send_event('primos', { items: reunion.values })
-	end
+	send_event('primos', { primos: primos.values })
 end

@@ -1,0 +1,1359 @@
+Writing PID to tmp/pids/thin.pid
+================================================================================
+scheduler caught exception:
+uninitialized constant Net
+/home/primo/www/hdp-dashing/jobs/primos.rb:6:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+Thin web server (v1.6.2 codename Doc Brown)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+127.0.0.1 - - [27/Mar/2014 18:17:46] "GET /hdp HTTP/1.1" 200 4155 0.0228
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/list.html HTTP/1.1" 200 493 0.0011
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/graph.html HTTP/1.1" 200 167 0.0008
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/clock.html HTTP/1.1" 200 53 0.0009
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/meter.html HTTP/1.1" 200 336 0.0011
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/tasks.html HTTP/1.1" 200 469 0.0008
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/labs.html HTTP/1.1" 200 256 0.0007
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/servers.html HTTP/1.1" 200 453 0.0010
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/comments.html HTTP/1.1" 200 289 0.0007
+127.0.0.1 - - [27/Mar/2014 18:17:49] "GET /views/text.html HTTP/1.1" 200 175 0.0009
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 18:32:57] "GET /events HTTP/1.1" 200 - 908.0806
+127.0.0.1 - - [27/Mar/2014 18:32:57] "GET /hdp HTTP/1.1" 200 4155 0.0054
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/list.html HTTP/1.1" 200 493 0.0009
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/clock.html HTTP/1.1" 200 53 0.0008
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/meter.html HTTP/1.1" 200 336 0.0007
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/tasks.html HTTP/1.1" 200 469 0.0008
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/labs.html HTTP/1.1" 200 256 0.0007
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/graph.html HTTP/1.1" 200 167 0.0008
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/servers.html HTTP/1.1" 200 453 0.0007
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/comments.html HTTP/1.1" 200 289 0.0007
+127.0.0.1 - - [27/Mar/2014 18:32:58] "GET /views/text.html HTTP/1.1" 200 175 0.0008
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Timeout::Error
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:146:in `rescue in rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:140:in `rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:122:in `readuntil'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:132:in `readline'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2563:in `read_status_line'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2552:in `read_new'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1320:in `block in transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `catch'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1294:in `request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1196:in `request_get'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:455:in `block in get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:746:in `start'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:454:in `get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:431:in `get'
+/home/primo/www/hdp-dashing/jobs/primos.rb:6:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /events HTTP/1.1" 200 - 627.0230
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /hdp HTTP/1.1" 200 4220 0.0053
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/list.html HTTP/1.1" 200 493 0.0010
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/clock.html HTTP/1.1" 200 53 0.0008
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/meter.html HTTP/1.1" 200 336 0.0007
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/tasks.html HTTP/1.1" 200 469 0.0006
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/labs.html HTTP/1.1" 200 256 0.0017
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/graph.html HTTP/1.1" 200 167 0.0007
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/servers.html HTTP/1.1" 200 453 0.0007
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/comments.html HTTP/1.1" 200 289 0.0007
+127.0.0.1 - - [27/Mar/2014 18:43:25] "GET /views/text.html HTTP/1.1" 200 175 0.0009
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Timeout::Error
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:146:in `rescue in rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:140:in `rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:122:in `readuntil'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:132:in `readline'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2563:in `read_status_line'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2552:in `read_new'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1320:in `block in transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `catch'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1294:in `request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1196:in `request_get'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:455:in `block in get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:746:in `start'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:454:in `get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:431:in `get'
+/home/primo/www/hdp-dashing/jobs/primos.rb:6:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 19:18:16] "GET /events HTTP/1.1" 200 - 2091.1699
+127.0.0.1 - - [27/Mar/2014 19:18:16] "GET /hdp HTTP/1.1" 200 4225 0.0051
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/list.html HTTP/1.1" 200 493 0.0009
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/clock.html HTTP/1.1" 200 53 0.0008
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/meter.html HTTP/1.1" 200 336 0.0008
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/tasks.html HTTP/1.1" 200 469 0.0011
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/labs.html HTTP/1.1" 200 256 0.0007
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/graph.html HTTP/1.1" 200 167 0.0007
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/servers.html HTTP/1.1" 200 453 0.0011
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/comments.html HTTP/1.1" 200 289 0.0008
+127.0.0.1 - - [27/Mar/2014 19:18:17] "GET /views/text.html HTTP/1.1" 200 175 0.0008
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 19:19:09] "GET /events HTTP/1.1" 200 - 52.6143
+127.0.0.1 - - [27/Mar/2014 19:19:09] "GET /hdp HTTP/1.1" 200 4225 0.0070
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/list.html HTTP/1.1" 200 493 0.0009
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/clock.html HTTP/1.1" 200 53 0.0007
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/meter.html HTTP/1.1" 200 336 0.0007
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/tasks.html HTTP/1.1" 200 469 0.0007
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/labs.html HTTP/1.1" 200 256 0.0007
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/graph.html HTTP/1.1" 200 167 0.0007
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/servers.html HTTP/1.1" 200 453 0.0007
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/comments.html HTTP/1.1" 200 289 0.0007
+127.0.0.1 - - [27/Mar/2014 19:19:10] "GET /views/text.html HTTP/1.1" 200 175 0.0008
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Timeout::Error
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:146:in `rescue in rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:140:in `rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:122:in `readuntil'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:132:in `readline'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2563:in `read_status_line'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2552:in `read_new'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1320:in `block in transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `catch'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1294:in `request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1196:in `request_get'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:455:in `block in get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:746:in `start'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:454:in `get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:431:in `get'
+/home/primo/www/hdp-dashing/jobs/code.rb:10:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /events HTTP/1.1" 200 - 1056.7835
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /hdp HTTP/1.1" 200 4225 0.0055
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/labs.html HTTP/1.1" 200 256 0.0009
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/clock.html HTTP/1.1" 200 53 0.0007
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/meter.html HTTP/1.1" 200 336 0.0008
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/tasks.html HTTP/1.1" 200 469 0.0007
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/graph.html HTTP/1.1" 200 167 0.0007
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/servers.html HTTP/1.1" 200 453 0.0007
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/comments.html HTTP/1.1" 200 289 0.0007
+127.0.0.1 - - [27/Mar/2014 19:36:47] "GET /views/text.html HTTP/1.1" 200 175 0.0008
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 19:41:30] "GET /events HTTP/1.1" 200 - 282.6885
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 19:41:47] "GET /hdp HTTP/1.1" 200 4225 0.0035
+127.0.0.1 - - [27/Mar/2014 19:41:48] "GET /views/labs.html HTTP/1.1" 200 256 0.0009
+127.0.0.1 - - [27/Mar/2014 19:41:48] "GET /views/clock.html HTTP/1.1" 200 53 0.0012
+127.0.0.1 - - [27/Mar/2014 19:41:48] "GET /views/meter.html HTTP/1.1" 200 336 0.0009
+127.0.0.1 - - [27/Mar/2014 19:41:49] "GET /views/tasks.html HTTP/1.1" 200 469 0.0008
+127.0.0.1 - - [27/Mar/2014 19:41:49] "GET /views/graph.html HTTP/1.1" 200 167 0.0009
+127.0.0.1 - - [27/Mar/2014 19:41:49] "GET /views/servers.html HTTP/1.1" 200 453 0.0009
+127.0.0.1 - - [27/Mar/2014 19:41:49] "GET /views/comments.html HTTP/1.1" 200 289 0.0009
+127.0.0.1 - - [27/Mar/2014 19:41:49] "GET /views/text.html HTTP/1.1" 200 175 0.0008
+================================================================================
+scheduler caught exception:
+Timeout::Error
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:146:in `rescue in rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:140:in `rbuf_fill'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:122:in `readuntil'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/protocol.rb:132:in `readline'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2563:in `read_status_line'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:2552:in `read_new'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1320:in `block in transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `catch'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1317:in `transport_request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1294:in `request'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:1196:in `request_get'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:455:in `block in get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:746:in `start'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:454:in `get_response'
+/home/primo/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/net/http.rb:431:in `get'
+/home/primo/www/hdp-dashing/jobs/primos.rb:6:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+127.0.0.1 - - [27/Mar/2014 19:53:35] "GET /events HTTP/1.1" 200 - 706.8990
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+Exiting!
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.2 codename Doc Brown)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+================================================================================
+scheduler caught exception:
+No such file or directory - /home/primo/www/hdp-dashing/tmpfiles/speed
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `initialize'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `open'
+/home/primo/www/hdp-dashing/jobs/red.rb:11:in `block in <top (required)>'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/home/primo/.rvm/gems/ruby-1.9.3-p448/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+Exiting!

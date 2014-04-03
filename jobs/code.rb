@@ -22,7 +22,7 @@ SCHEDULER.every '5m', :first_in => 0 do |job|
       else
         asignado_a = "Todos" 
       end
-      { name: tarea['subject'], description: tarea['description'], assigned_to: "Asignado a: #{asignado_a}", done_ratio: "Completado en un #{tarea['done_ratio']}%" }
+      { name: tarea['subject'], description: tarea['description'][0...249] , assigned_to: "Asignado a: #{asignado_a}", done_ratio: "Completado en un #{tarea['done_ratio']}%" }
     end
 
 

@@ -1,3 +1,4 @@
+<!-- paleta de colores: http://www.colourlovers.com/palette/148712/Gamebookers --!>
 <script type='text/javascript'>
 $(function() {
   Dashing.widget_base_dimensions = [470, 350]
@@ -8,15 +9,15 @@ $(function() {
 </script>
 
 
-<% content_for :title do %>1080p dashboard<% end %>
+<% content_for :title do %>HyperDashboardPrimos<% end %>
 <div class="gridster">
-  <ul>
+   <ul>
     <li data-row="2" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-id="primos" data-unordered="true" data-title="Primos de Turno" data-view="List"></div>
+      <div style="background-color:#3299BB;" data-id="primos" data-unordered="true" data-title="Primos de Turno" data-view="Primos"></div>
     </li>
 
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-view="Clock"></div>
+      <div style="background-color:#FF9900;"  data-view="Clock"></div>
     </li>
 
     <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
@@ -24,7 +25,7 @@ $(function() {
     </li>
 
     <li id="show-koshiro" data-row="1" data-col="4" data-sizex="1" data-sizey="1">
-      <div style="background-color:#4b4b4b;">
+      <div style="background-color:#FF9900;">
         <img style="width:470px;height:350px" src="http://primo:primo@koshiro/img/video.mjpeg" />
       </div>
     </li>
@@ -44,22 +45,22 @@ $(function() {
     </li>
 
     <li data-row="3" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-view="Graph" data-title="Red DI" data-id="red">Red DI
+      <div data-view="Graph" data-title="Red DI" style="background-color:#FF9900" data-id="red">Red DI
       </div>
     </li>
 
     <li data-row="3" data-col="2" data-sizex="1" data-sizey="1">
-      <div data-view="Servers" data-id="servers" data-title="Servers" ></div>
+      <div data-view="Servers" data-id="servers" data-title="Servers" style="background-color:#BCBCBC"></div>
     </li>
 
     <li data-row="3" data-col="3" data-sizex="1" data-sizey="1">
-      <div data-id="twitter_mentions" data-view="Comments" style="background-color:#4682B4;" data-moreinfo="Menciones Cuenta Primos (@utfsm_labs)"></div>
+      <div data-id="twitter_mentions" data-view="Comments" style="background-color:#3299BB;" data-moreinfo="Menciones Cuenta Primos (@utfsm_labs)"></div>
       <i class="icon-twitter icon-background"></i>
     </li>
 
     <li data-row="3" data-col="4" data-sizex="1" data-sizey="1">
        <!-- old <iframe id="yutuv"  width="470" height="350" src="//www.youtube.com/embed/KMFOVSWn0mI?autoplay=1&loop=1&mute=1" frameborder="0" allowfullscreen></iframe> -->
-       <div data-view="Text" data-id="musica" style="background-color:#8BAD53"></div>
+       <div data-view="Text" data-id="musica" style="background-color:#424242"></div>
     </li>
 
   </ul>
