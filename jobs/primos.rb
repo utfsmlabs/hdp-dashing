@@ -8,5 +8,11 @@ SCHEDULER.every '1m', :first_in => 0 do |job|
 	primos_arreglo.each do |primo|
 		primos[primo] = { label: primo }
 	end
-	send_event('primos', { primos: primos.values })
+
+        primos.values.each do |primo|
+	  if primo.label == 'Fuera del horario de turnos'
+	    primo.label = ''
+	  end        
+        
+        send_event('primos', { primos: primos.values })
 end
