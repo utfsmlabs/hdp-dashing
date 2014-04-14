@@ -8,6 +8,6 @@ SCHEDULER.every '5s', :first_in => 0 do |job|
 	if cancion != " - "
 		send_event('musica', { text: cancion })
 	else
-		send_event('musica', { text: "Aqui pondria el nombre de la cancion... SI TUVIERA UNA!" })
+		send_event('musica', { text: "Aqui pondria el nombre de la cancion \n\n Si tuviera una!" })
 	end
 end
