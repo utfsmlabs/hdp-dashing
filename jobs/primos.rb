@@ -6,7 +6,11 @@ SCHEDULER.every '1m', :first_in => 0 do |job|
 	primos_arreglo = html.split(',')
 
 	primos_arreglo.each do |primo|
-		primos[primo] = { label: primo }
+		if primo == "Fuera del horario de turnos"
+			primos[primo] = {label: "Nadie"}
+		else
+			primos[primo] = { label: primo }
+		end
 	end
 
     send_event('primos', { primos: primos.values })

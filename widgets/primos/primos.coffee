@@ -4,7 +4,8 @@ class Dashing.Primos extends Dashing.Widget
     @currentIndex = 0
     @primoElem = $(@node).find('.primo-container')
     @nextPrimo()
-    @startCarousel()
+    if primos.length != 1
+      @startCarousel()
 
   onData: (data) ->
     @currentIndex = 0
@@ -15,7 +16,7 @@ class Dashing.Primos extends Dashing.Widget
   nextPrimo: =>
     primos = @get('primos')
     if primos
-      @primoElem.fadeOut =>
-        @currentIndex = (@currentIndex + 1) % primos.length
-        @set 'current_primo', primos[@currentIndex]
-        @primoElem.fadeIn()
+        @primoElem.fadeOut =>
+          @currentIndex = (@currentIndex + 1) % primos.length
+          @set 'current_primo', primos[@currentIndex]
+          @primoElem.fadeIn()
