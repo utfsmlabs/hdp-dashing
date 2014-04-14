@@ -3,8 +3,7 @@ class Dashing.Primos extends Dashing.Widget
   ready: ->
     @currentIndex = 0
     @primoElem = $(@node).find('.primo-container')
-    @nextPrimo()
-    if primos.length != 1
+    if @nextPrimo()
       @startCarousel()
 
   onData: (data) ->

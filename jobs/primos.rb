@@ -7,7 +7,10 @@ SCHEDULER.every '1m', :first_in => 0 do |job|
 
 	primos_arreglo.each do |primo|
 		if primo == "Fuera del horario de turnos"
-			primos[primo] = {label: "Nadie"}
+			primos[primo] = {label: "Fuera del"}
+			primos[primo] = {label: "Horario"}
+			primos[primo] = {label: "de Turnos"}
+
 		else
 			primos[primo] = { label: primo }
 		end
