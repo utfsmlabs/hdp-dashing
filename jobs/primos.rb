@@ -19,9 +19,9 @@ SCHEDULER.every '1m', :first_in => 0 do |job|
 	primos_hash.each do |primo, log|
 		primos[primo] = { label: primo }
 		if log
-			primos[primo] = { label: primo , icon: "✓"}
+			primos[primo] = { label: primo , icon: "✔"}
 		else
-			primos[primo] = { label: primo , icon: "x"}
+			primos[primo] = { label: primo , icon: "✘"}
 		end
 	end
 	
