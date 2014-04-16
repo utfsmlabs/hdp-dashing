@@ -8,9 +8,9 @@ last_x = points.last[:x]
 SCHEDULER.every '1m' do
   points.shift
   last_x += 1
-  f = File.open("/home/primo/www/hdp-dashing/tmpfiles/speed")
-  vel = f.gets.to_f
-  f.close
+  speed = `/usr/bin/time -f '%e' curl -s http://download.thinkbroadband.com/10MB.zip -o /dev/null 2>&1`  
+  speed.slice! "\n"
+  vel = speed.to_f
   points << { x: last_x, y: vel }
   send_event('red', points: points)
 end
