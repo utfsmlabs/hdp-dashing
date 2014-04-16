@@ -1,3 +1,6 @@
+#!/bin/env ruby
+# encoding: utf-8
+
 require 'net/http'
 
 SCHEDULER.every '1m', :first_in => 0 do |job|
