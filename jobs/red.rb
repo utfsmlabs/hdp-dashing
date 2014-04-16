@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Populate the graph with some random points
 points = []
 (1..10).each do |i|

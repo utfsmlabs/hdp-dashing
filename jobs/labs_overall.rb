@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'open-uri'
 settings = YAML.load_file("config.yaml")
 SCHEDULER.every '5s', :first_in => 0 do |job|	

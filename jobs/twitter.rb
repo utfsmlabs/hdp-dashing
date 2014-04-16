@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'twitter'
 settings = YAML.load_file("config.yaml")
 

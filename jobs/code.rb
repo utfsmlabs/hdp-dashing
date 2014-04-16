@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 settings = YAML.load_file("config.yaml")
 hash_tareas = Hash.new
 

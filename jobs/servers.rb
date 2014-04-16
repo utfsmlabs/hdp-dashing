@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'open-uri'
 settings = YAML.load_file("config.yaml")
 
