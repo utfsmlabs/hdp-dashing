@@ -7,8 +7,8 @@ SCHEDULER.every '5s', :first_in => 0 do |job|
 	
 	cancion = response['result']['Artist'].to_s + " - " + response['result']['Title'].to_s
 	if cancion != " - "
-		send_event('musica', { title: cancion })
+		send_event('musica', { title: response['result']['Artist'].to_s, text: response['result']['Title'].to_s})
 	else
-		send_event('musica', { text: "Aqui pondria el nombre de la cancion \n\n Si tuviera una!" })
+		send_event('musica', { title: "", text: "Aqui pondria el nombre de la cancion.  \n\n Si tuviera una!" })
 	end
 end

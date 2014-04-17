@@ -11,7 +11,8 @@ SCHEDULER.every '1m' do
   last_x += 1
   speed = `/usr/bin/time -f '%e' curl -s http://download.thinkbroadband.com/10MB.zip -o /dev/null 2>&1`  
   speed.slice! "\n"
-  vel = speed.to_f
+  vel = 10240/speed.to_f
+  vel = vel.to_i
   points << { x: last_x, y: vel }
   send_event('red', points: points)
 end
