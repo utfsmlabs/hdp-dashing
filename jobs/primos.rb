@@ -11,10 +11,10 @@ SCHEDULER.every '1m', :first_in => 0 do |job|
 	eval("primos_hash ="+html)
 
 	if primos_hash.empty?
-		primos[primo] = {label: "Fuera del"}
-		primos[primo] = {label: "Horario"}
-		primos[primo] = {label: "de Turnos"}
-	end
+		primos["1"] = {label: "Fuera del"}
+		primos["2"] = {label: "Horario"}
+		primos["3"] = {label: "de Turnos"}
+	else
 
 	primos_hash.each do |primo, log|
 		primos[primo] = { label: primo }
@@ -23,6 +23,7 @@ SCHEDULER.every '1m', :first_in => 0 do |job|
 		else
 			primos[primo] = { label: primo , icon: "✘"}
 		end
+	end
 	end
 	
 	# primos_arreglo.each do |primo|
