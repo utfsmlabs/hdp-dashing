@@ -6,12 +6,12 @@ points = []
 end
 last_x = points.last[:x]
 
-SCHEDULER.every '1m' do
+SCHEDULER.every '5m' do
   points.shift
   last_x += 1
-  speed = `/usr/bin/time -f '%e' curl -s http://download.thinkbroadband.com/10MB.zip -o /dev/null 2>&1`  
-  speed.slice! "\n"
-  vel = 10240/speed.to_f
+  speed = `/usr/bin/time -f '%e' curl -s http://ipv4.download.thinkbroadband.com/5MB.zip -o /dev/null 2>&1`  
+  speed = /\d+.\d+/.match(speed).to_s.to_f
+  vel = 5120/speed.to_f
   vel = vel.to_i
   points << { x: last_x, y: vel }
   send_event('red', points: points)
