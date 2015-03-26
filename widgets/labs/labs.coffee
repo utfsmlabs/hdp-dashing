@@ -1,5 +1,4 @@
 class Dashing.Labs extends Dashing.Widget
-
   ready: ->
     @currentIndex = 0
     @labElem = $(@node).find('.labs-container')
