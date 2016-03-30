@@ -9,7 +9,7 @@ last_x = points.last[:x]
 SCHEDULER.every '5m' do
   points.shift
   last_x += 1
-  speed = `/usr/bin/time -f '%e' curl -s http://ipv4.download.thinkbroadband.com/5MB.zip -o /dev/null 2>&1`  
+  speed = `/usr/bin/time -f '%e' curl -s http://web4host.net/5MB.zip -o /dev/null 2>&1`  
   speed = /\d+.\d+/.match(speed).to_s.to_f
   vel = 5120/speed.to_f
   vel = vel.to_i
