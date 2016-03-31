@@ -8,7 +8,7 @@ Encoding.default_external = Encoding::UTF_8
 SCHEDULER.every '15s', :first_in => 4 do |job|
   result = Net::HTTP.get uri
 
-  calendars = Icalendar.parse(result)
+  calendars = Icalendar.parse(result.force_encoding("utf-8"))
   calendar = calendars.first
 
   events = calendar.events.map do |event|

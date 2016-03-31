@@ -14,12 +14,8 @@ SCHEDULER.every '10s', :first_in => 0 do |job|
 
 	
 
-	if response.body.nil?
 		cancion = response.body["result"]["name"]
 		artist = response.body["result"]["album"]["artists"][0]["name"]
 		send_event('musica', { title: artist, text: cancion})
-	else 
-		send_event('musica', { title: "No seai fome", text: "Pone Musica"})
-	end
 
 end
