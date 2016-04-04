@@ -3,5 +3,6 @@ RUN mkdir /hdp
 RUN gem install bundler
 COPY . /hdp
 WORKDIR /hdp
-RUN bundle install
+RUN apt-get update
 RUN apt-get install time
+RUN bundle install
